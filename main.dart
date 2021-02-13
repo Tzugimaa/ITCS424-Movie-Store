@@ -2,12 +2,6 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(_MyApp());
 
-  int _count = 0;
-
-  void incrementCount() {
-    _count += 1;
-  }
-
 class _MyApp extends StatelessWidget {
   // This widget is the root of your application.
 
